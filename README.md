@@ -1,1 +1,0 @@
-# canturan10.github.io
