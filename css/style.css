@@ -174,10 +174,10 @@ a:focus {
     color: #000;
 }
 .main-menu .navbar-nav li a {
-    color: #fff;
+    color: #5b73ab;
     font-size: 16px;
-	/*padding: 30px 20px;*/
-    text-transform: uppercase;
+	/*padding: 30px 20px;
+    text-transform: uppercase;*/
     -webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -336,7 +336,7 @@ a img.logo-color  {
     vertical-align: middle;
 }
 .banner-content {
-    margin-top: 80px;
+    /*margin-top: 80px;*/
 	max-width: 50%;
 }
 .banner-content h1 {
@@ -593,7 +593,7 @@ a img.logo-color  {
 |----------------------------------------------------------------------------
 */
 #single-page-banner {
-    margin-top: 80px;
+    margin-top: 50px;
     /*padding: 10vh 0;*/
     padding: 30px 0;
     position: relative;
@@ -619,7 +619,7 @@ a img.logo-color  {
 	background-color: #f0f0f0;
 }
 #single-page-banner.page-title-image.portfolio-hbg {
-    background-image: url("../images/background/portfolio-details-banner.jpg");
+    background-image: url("../images/background/bg-2.jpg");
 	background-color: #f0f0f0;
 }
 #single-page-banner.page-title-image.service-hbg {
@@ -650,7 +650,7 @@ a img.logo-color  {
 |----------------------------------------------------------------------------
 */
 #about {
-	padding: 70px 0;
+	padding: 40px 0;
 }
 #about .about-text .title-box {
     margin: 0 0 40px;
