@@ -721,7 +721,7 @@ a img.logo-color  {
     width: 64px;
 }
 #about .profile-image {
-    border: 2px solid #5b73ab;
+    /*border: 2px solid #5b73ab;*/
     border-radius: 10px;
 	margin: 0 0 50px;
     max-width: 480px;
