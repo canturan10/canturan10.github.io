@@ -795,7 +795,7 @@ a img.logo-color  {
 |----------------------------------------------------------------------------
 */
 .about-timeline-style .nav.nav-tabs, .about-box-style .nav.nav-tabs {
-    max-width: fit-content;
+    max-width: max-content;
     margin: 50px auto;
 	border: none;
 	text-align: center;
