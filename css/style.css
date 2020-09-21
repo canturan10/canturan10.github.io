@@ -1076,8 +1076,8 @@ a img.logo-color  {
 
 .service-box-wrap h3 {
 	color: #000;
-	font-size: 22px;
-    font-weight: 100;
+	font-size: 18px;
+    /* font-weight: 100; */
 	margin: 0 0 15px;
 }
 .service-wrap i {
